@@ -1,7 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=gluckzhang&show_icons=true&hide_title=true&hide_border=true" />
 
-### Hello world 😄
-
 My name is Long Zhang. I am now a PhD student in computer science funded by [Wallenberg AI, Autonomous Systems and Software Program (WASP)](http://wasp-sweden.org/) at KTH Royal Institute of Technology, Sweden. My research interests include chaos engineering, self-healing software, and antifragile systems. Do you know that actually we can inject failures into a production system on purpose in order to improve the system's resilience? Take a look at GitHub repo [Royal Chaos](https://github.com/KTH/royal-chaos) if you feel interested!
 
 <!--
